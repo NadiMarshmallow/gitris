@@ -13,6 +13,7 @@ render (){
         <div>
         
         <p>Questo è la Home</p>
+        <p>Questo è la Home</p>
         </div>
     )
 }
